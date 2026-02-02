@@ -10,7 +10,7 @@ ECHO Caves is a reverse engineered dark mode built by a former New Tech student 
 
 Theme codes are written in JSON (JavaScript Object Notation). When a theme code is passed through the ECHO Caves menu, it is parsed and injected into CSS root variables to then be interpreted by the stylesheet.  
 
-Parent Keys are required for each category,. For example,  `"Background":`  is an example of the Parent Key for all Background key : value pairs:
+Parent Keys are required for each category. For example,  `"Background":`  is an example of the Parent Key for all Background key : value pairs:
 ```json
 "Background":{"NewPrimaryBackgroundColor":"#282A36",
 ```
