@@ -6,8 +6,6 @@ ECHO Caves is a reverse engineered dark mode built by a former New Tech student 
 
 (This makes for a pretty damn good Senior Project / Senior Defense)
 
-#### Though I no longer attend a New Tech School, I will maintain this project along with my brother(s) who are still attending. If you have any questions or would like to discuss more about this project, feel free to email xorrdev@gmail.com.
-
 ## Theme Codes
 
 Theme codes are written in JSON (JavaScript Object Notation). When a theme code is passed through the ECHO Caves menu, it is parsed and injected into CSS root variables to then be interpreted by the stylesheet.  
